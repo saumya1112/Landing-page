@@ -1,0 +1,106 @@
+/* CSS used here will be applied after bootstrap.css */
+body{
+   
+    background-image: url(./wave-haikei\ \(5\).svg);
+    background-position: center;
+   
+    
+    background-size: cover;
+    
+}
+
+.dropdown{
+    border: none;
+
+}
+.nav-top-social a{
+
+padding: 6px;
+    color: orange;
+    
+}
+
+.nav-social a{
+    padding-right: 20px;
+   margin-top: 0px;
+    margin-left: 20px;
+    font-size: 28px;
+    color: black;
+    float:right;
+    top: 0px;
+    
+}
+.nav-social a img{
+    top: -5px;
+    width: 70%;
+    
+}
+
+.nav-social a:hover{
+   color: orange;}
+
+.icons span{
+    float:right;
+}
+.navbar-brand{
+    margin-bottom: 25px;
+   
+}
+.navbar-brand img{
+  
+    width: 250%;
+  
+margin-left: 0px;
+    height: 60px;
+    
+}
+.m-6{
+    background-color: #fff;
+    box-shadow:  5px 0px 20px 5px rgb(240, 215, 103);
+}
+.input{
+    border: none;
+    color: red;
+}
+.dropdown{
+    color: orange;
+}
+.dropdown i{
+    margin-left: 13px;
+}
+.nav-social-1 img{
+    height: 90px;
+    width: 130%;
+}
+::placeholder{
+
+    opacity: 1;
+    font-size: 18px;
+    color:orange;
+
+}
+
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 70px; /* Should be removed. Only for demonstration */
+   
+    
+  }
+  
+
+
+
+  #myCarousel {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  
+ 
+
+
+
+
+  
